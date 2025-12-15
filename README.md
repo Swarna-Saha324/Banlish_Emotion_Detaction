@@ -65,7 +65,7 @@ This project solves this using multi-label training.
 
 ### 🔹 **3. Model Contribution**
 - Implemented multilingual Transformer models  
-  - XLM-R /  BiLSTM  / BiLSTM + Attention model /Multilingual E5 Large Embeddings + XGBoost 
+  - XLM-R /  BiLSTM  / BiLSTM + Attention model /Multilingual E5 Large Embeddings + XGBoost / MBert
 - Trained with class imbalance handling  
 - Sigmoid-based multi-label output layer  
 - Achieved higher accuracy than baseline datasets
